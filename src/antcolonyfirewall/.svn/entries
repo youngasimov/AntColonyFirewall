@@ -1,0 +1,61 @@
+10
+
+dir
+21
+https://aco-pf-implementation.googlecode.com/svn/trunk/antcolonyfirewall
+https://aco-pf-implementation.googlecode.com/svn
+
+
+
+2011-10-03T04:18:14.527117Z
+21
+camilo.vera.cortes@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+04420ee0-b9d0-8776-0eff-02db42194ae3
+
+core
+dir
+
+input
+dir
+
+output
+dir
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+deleted
+
+simulation
+dir
+

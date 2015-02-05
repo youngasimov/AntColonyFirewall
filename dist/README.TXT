@@ -1,12 +1,3 @@
-# AntColonyFirewall
-A Java Implementation of a Firewall working with an ant Colony Algorithm
-
-
-This application is a Simulator of a Firewall developed with Java.
-
-This particular Simulator works with an ant colony algorithm. its also implements a simple
-search algorithm in order to compare results.
-
 ========================
 BUILD OUTPUT DESCRIPTION
 ========================
